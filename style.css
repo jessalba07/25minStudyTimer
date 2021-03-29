@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+@font-face {
+  font-family: dayFont;
+  src: url(DashingUnicorn.ttf);
+}
+
+p {
+  color: white;
+  font-size: 60px;
+  font-family: dayFont;
+  position: absolute;
+  top: 330px;
+  left: 40px;
+}
